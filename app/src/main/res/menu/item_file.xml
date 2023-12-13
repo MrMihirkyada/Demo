@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:title="next activity"
+        android:id="@+id/next"/>
+
+    <item
+        android:title="next activity"/>
+
+    <item
+        android:title="next activity"/>
+
+    <item
+        android:title="next activity"/>
+
+    <item
+        android:title="next activity"/>
+
+    <item
+        android:title="next activity"/>
+</menu>
